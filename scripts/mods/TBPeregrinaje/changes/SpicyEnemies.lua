@@ -1,4 +1,4 @@
-local mod = get_mod("TourneyBalance")
+local mod = get_mod("TBPeregrinaje")
 
 --Buffs for enemies used in Dutch Spice. Not put in Dutch Spice itself because that would be problematic if ran with a balance mod like this one.
 Managers.package:load("resource_packages/mutators/mutator_curse_bolt_of_change", "global")

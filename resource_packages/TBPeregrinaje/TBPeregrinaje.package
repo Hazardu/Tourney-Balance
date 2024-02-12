@@ -1,0 +1,11 @@
+mod = [
+	"TBPeregrinaje"
+]
+
+package = [
+	"resource_packages/TBPeregrinaje/TBPeregrinaje"
+]
+
+lua = [
+	"scripts/mods/TBPeregrinaje/*"
+]
